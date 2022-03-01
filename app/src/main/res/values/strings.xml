@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculadoradepropina</string>
+    <string name="total_amount">Total Bill Amount</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="percentage15">15%</string>
+    <string name="percentage20">20%</string>
+    <string name="percentage35">35%</string>
+    <string name="totalTip">0.0</string>
+    <string name="total_amount_w_tip">0.0</string>
+    <string name="round_up_button">Round up</string>
+</resources>
